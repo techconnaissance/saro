@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'sarodev'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4032db888a4c42089171c2d5704e9334 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bdd9b480400c4fec9cbe14d695035b61 }}

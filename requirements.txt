@@ -1,0 +1,2 @@
+django==3.8.4
+social-auth-app-django
